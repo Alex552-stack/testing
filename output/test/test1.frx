@@ -11,6 +11,7 @@
       <TextObject Name="Text3" Left="330.75" Top="75.6" Width="94.5" Height="18.9" Text="................." Font="Arial, 10pt" />
       <TextObject Name="Text4" Left="500.85" Top="18.9" Width="94.5" Height="18.9" Text="................." Font="Arial, 10pt" />
       <TextObject Name="Text5" Left="132.3" Top="113.4" Width="94.5" Height="18.9" Text="................." Font="Arial, 10pt" />
-      </PageFooterBand>
+      <TextObject Name="Text6" Left="519.75" Top="151.2" Width="94.5" Height="18.9" Text="................." Font="Arial, 10pt" />
+    </PageFooterBand>
   </ReportPage>
 </Report>
