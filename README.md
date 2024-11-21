@@ -1,1 +1,1 @@
-Quick and dirty full ChatGpt think i made for work
+Quick and dirty full ChatGpt thing i made for work
